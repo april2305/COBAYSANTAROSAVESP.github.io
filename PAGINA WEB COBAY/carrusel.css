@@ -1,0 +1,19 @@
+.carousel-inner > .item > img,
+2
+.carousel-inner > .item > a > img {
+    3 width: 60%;
+    4 margin: auto;
+    5
+}
+
+.carousel-inner{
+    position: relative;
+}
+
+
+
+
+
+
+</body >
+</html >

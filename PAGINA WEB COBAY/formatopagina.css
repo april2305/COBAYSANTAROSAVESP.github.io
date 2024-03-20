@@ -1,0 +1,17 @@
+
+body {
+    margin: 0; /* Establece el margen del cuerpo del documento a 0 */
+    padding: 0; /* Establece el relleno del cuerpo del documento a 0 */
+}
+
+.contenedor {
+    margin: 20px; /* Establece un margen de 20px para todos los lados del contenedor */
+    padding: 15px; /* Añade un relleno de 15px dentro del contenedor */
+    background-color: white;
+}
+
+.contenido {
+    margin-top: 53px; /* Establece un margen superior de 53px para el contenido */
+    padding: 20px; /* Añade un relleno de 20px dentro del contenido */
+    background-color: white;
+}
